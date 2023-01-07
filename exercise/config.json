@@ -1,0 +1,9 @@
+{
+    "openai_key": "",
+    "modules": [
+        "dashboard",
+        "service_exercise",
+        "layout_exercise",
+        "form_exercise"
+    ]
+}
